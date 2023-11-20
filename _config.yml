@@ -44,4 +44,4 @@ responsive_image:
     - width: 600
     - width: 640
 
-exclude: ['README.md', 'Gemfile', 'Gemfile.lock']
+exclude: ['README.md', 'Gemfile', 'Gemfile.lock', 'push_ghpages.sh']
