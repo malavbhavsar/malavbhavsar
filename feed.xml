@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Malav Bhavsar</title>
-    <description>Senior Software Engineer at Square. I lead high-impact cross-organizational projects and engineering teams. Interested in Distributed Systems, Fintech, Blockchain and Machine Learning.</description>
-    <link>http://malav.io//</link>
-    <atom:link href="http://malav.io//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 18 Jan 2021 22:55:22 -0800</pubDate>
-    <lastBuildDate>Mon, 18 Jan 2021 22:55:22 -0800</lastBuildDate>
+    <description> Hello 👋 I am Malav, I work on Infrastructure and Product Engineering at Persona. I enjoy leading and executing on high level business goals. My current areas of interest are Fintech, Distributed Systems, and Machine Learning. </description>
+    <link>http://localhost:4000//</link>
+    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Nov 2023 21:37:00 +0530</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2023 21:37:00 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
-
+    
       <item>
         <title>git hublog</title>
         <description>&lt;p&gt;Sneak peak of git hublog project!&lt;/p&gt;
@@ -28,21 +28,21 @@
 &lt;/a&gt;&lt;/p&gt;
 
 </description>
-        <pubDate>Mon, 04 Jul 2016 18:30:00 -0700</pubDate>
-        <link>http://malav.io//2016/git-hublog/</link>
-        <guid isPermaLink="true">http://malav.io//2016/git-hublog/</guid>
-
+        <pubDate>Tue, 05 Jul 2016 07:00:00 +0530</pubDate>
+        <link>http://localhost:4000//2016/git-hublog/</link>
+        <guid isPermaLink="true">http://localhost:4000//2016/git-hublog/</guid>
+        
         <category>git</category>
-
+        
         <category>node.js</category>
-
+        
         <category>curses</category>
-
+        
         <category>terminal</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>RubyGem for Sentiment Analysis: Sentimentalizer</title>
         <description>&lt;p&gt;So, this month we had a Pittsburgh hackathon organized by facebook. I teamed up with Ruchir Patwa and made a simple web-app. It gets facebook status messages of one’s friends and predicts whether they are happy or sad by doing sentiment analysis. &lt;a href=&quot;https://github.com/malavbhavsar/Friends-mood&quot;&gt;Here&lt;/a&gt; is the github repo of the project.&lt;/p&gt;
@@ -51,21 +51,21 @@
 
 &lt;p&gt;This was supposed to be a learning experience for me on how to make gems. So here it is: One can start with the &lt;a href=&quot;http://guides.rubygems.org/make-your-own-gem/&quot;&gt;make your own gem&lt;/a&gt; guide by the rubygems. It gives a fast tour of a typical gem’s anatomy. After getting the basics right, one can start using &lt;a href=&quot;https://github.com/technicalpickles/jeweler&quot;&gt;jeweler&lt;/a&gt;. It makes building gems super easy. Warning: if you don’t do things right way with jeweler, your commit log will look like a war zone. It happened with me.&lt;/p&gt;
 </description>
-        <pubDate>Wed, 28 Nov 2012 20:31:00 -0800</pubDate>
-        <link>http://malav.io//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</link>
-        <guid isPermaLink="true">http://malav.io//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</guid>
-
+        <pubDate>Thu, 29 Nov 2012 10:01:00 +0530</pubDate>
+        <link>http://localhost:4000//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</link>
+        <guid isPermaLink="true">http://localhost:4000//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</guid>
+        
         <category>ruby</category>
-
+        
         <category>gem</category>
-
+        
         <category>machine-learning</category>
-
+        
         <category>sentiment-analysis</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Rails configuration of my team ‘Where is Michael?’</title>
         <description>&lt;p&gt;In my first semester at Carnegie Mellon, my favorite course is Introduction to Software Engineering. Students are divided in the teams of five and each team is assigned one VP of Engineering. Each team is supposed to follow XP and use rails to create a web application. Only one class in the week, team coding sessions, meeting with VP and more coding. Yeah, my favorite course.&lt;/p&gt;
@@ -118,19 +118,19 @@
 
 &lt;p&gt;EDIT: In my recent experience, I have noticed that for people who don’t specify the exact gem versions are prone to run into errors where their test cases start to fail and there might be no apparent reason for it in the code. This can happen in a case where the new versions of the gem has arrived and travis runs your tests with new versions of gem. Solution to this problem is to use the exact gem versions. Also, if one can trigger travis to run tests when new version of any gem listed in Gemfile is released. Gemnasium should start doing this. They can just create a .gemnasium file which is updated everytime a new version of any gem listed in Gemfile is released. This will trigger travis to run the tests.&lt;/p&gt;
 </description>
-        <pubDate>Sat, 27 Oct 2012 10:53:00 -0700</pubDate>
-        <link>http://malav.io//2012/rails-configuration-of-my-team-where-is-michael/</link>
-        <guid isPermaLink="true">http://malav.io//2012/rails-configuration-of-my-team-where-is-michael/</guid>
-
+        <pubDate>Sat, 27 Oct 2012 23:23:00 +0530</pubDate>
+        <link>http://localhost:4000//2012/rails-configuration-of-my-team-where-is-michael/</link>
+        <guid isPermaLink="true">http://localhost:4000//2012/rails-configuration-of-my-team-where-is-michael/</guid>
+        
         <category>ruby</category>
-
+        
         <category>rails</category>
-
+        
         <category>config</category>
-
-
+        
+        
       </item>
-
+    
       <item>
         <title>Anami</title>
         <description>&lt;!-- TODO: Use a plugin to embed instead of doing this for every embed object  --&gt;
@@ -146,16 +146,16 @@
 
 &lt;p&gt;I din’t have much problems while acting in this movie. Pavan jokingly says that it’s because my personality correlates with the role.&lt;/p&gt;
 </description>
-        <pubDate>Tue, 27 Dec 2011 04:56:00 -0800</pubDate>
-        <link>http://malav.io//2011/anami/</link>
-        <guid isPermaLink="true">http://malav.io//2011/anami/</guid>
-
+        <pubDate>Tue, 27 Dec 2011 18:26:00 +0530</pubDate>
+        <link>http://localhost:4000//2011/anami/</link>
+        <guid isPermaLink="true">http://localhost:4000//2011/anami/</guid>
+        
         <category>short-film</category>
-
+        
         <category>acting</category>
-
-
+        
+        
       </item>
-
+    
   </channel>
 </rss>

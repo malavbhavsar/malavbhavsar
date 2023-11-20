@@ -11,6 +11,10 @@
   white-space: pre-wrap;
 }
 
+.blog-link {
+  text-decoration: underline !important;
+}
+
 .btn, .navigation__item a {
   margin: 5px 0;
   white-space: nowrap;

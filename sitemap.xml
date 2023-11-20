@@ -1,142 +1,142 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-
-
+  
+    
     <url>
-      <loc>http://malav.io/2016/git-hublog/</loc>
-
-        <lastmod>2016-07-04T18:30:00-07:00</lastmod>
-
-
+      <loc>http://localhost:4000/2016/git-hublog/</loc>
+      
+        <lastmod>2016-07-05T07:00:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.5</priority>
-
+      
     </url>
-
-
-
+    
+  
+    
     <url>
-      <loc>http://malav.io/2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</loc>
-
-        <lastmod>2012-11-28T20:31:00-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</loc>
+      
+        <lastmod>2012-11-29T10:01:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.5</priority>
-
+      
     </url>
-
-
-
+    
+  
+    
     <url>
-      <loc>http://malav.io/2012/rails-configuration-of-my-team-where-is-michael/</loc>
-
-        <lastmod>2012-10-27T10:53:00-07:00</lastmod>
-
-
+      <loc>http://localhost:4000/2012/rails-configuration-of-my-team-where-is-michael/</loc>
+      
+        <lastmod>2012-10-27T23:23:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.5</priority>
-
+      
     </url>
-
-
-
+    
+  
+    
     <url>
-      <loc>http://malav.io/2011/anami/</loc>
-
-        <lastmod>2011-12-27T04:56:00-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/2011/anami/</loc>
+      
+        <lastmod>2011-12-27T18:26:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.5</priority>
-
+      
     </url>
-
-
-
-
+    
+  
+  
+    
     <url>
-      <loc>http://malav.io/feed.xml</loc>
-
-        <lastmod>2021-01-18T22:55:22-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/feed.xml</loc>
+      
+        <lastmod>2023-11-20T21:37:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.3</priority>
-
+      
     </url>
-
-
-
+    
+  
+    
     <url>
-      <loc>http://malav.io/</loc>
-
-        <lastmod>2021-01-18T22:55:22-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/</loc>
+      
+        <lastmod>2023-11-20T21:37:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.3</priority>
-
+      
     </url>
-
-
-
+    
+  
+    
     <url>
-      <loc>http://malav.io/js/main.js</loc>
-
-        <lastmod>2021-01-18T22:55:22-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/js/main.js</loc>
+      
+        <lastmod>2023-11-20T21:37:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.3</priority>
-
+      
     </url>
-
-
-
+    
+  
+    
     <url>
-      <loc>http://malav.io/resume/</loc>
-
-        <lastmod>2021-01-18T22:55:22-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/resume/</loc>
+      
+        <lastmod>2023-11-20T21:37:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.3</priority>
-
+      
     </url>
-
-
-
-
-
+    
+  
+    
+  
+    
     <url>
-      <loc>http://malav.io/tags/</loc>
-
-        <lastmod>2021-01-18T22:55:22-08:00</lastmod>
-
-
+      <loc>http://localhost:4000/tags/</loc>
+      
+        <lastmod>2023-11-20T21:37:00+05:30</lastmod>
+      
+      
         <changefreq>monthly</changefreq>
-
-
+      
+      
         <priority>0.3</priority>
-
+      
     </url>
-
-
+    
+  
 </urlset>
