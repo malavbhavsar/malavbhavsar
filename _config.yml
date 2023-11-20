@@ -1,6 +1,11 @@
 # Site settings
 title: Malav Bhavsar
-description: 'Senior Software Engineer at Square. I lead high-impact cross-organizational projects and engineering teams. Interested in Distributed Systems, Fintech, Blockchain and Machine Learning.'
+description: 
+  "
+   Hello 👋 I am Malav, I work on Infrastructure and Product Engineering at Persona.
+   I enjoy leading and executing on high level business goals. My current areas of 
+   interest are Fintech, Distributed Systems, and Machine Learning.
+  "
 url: 'http://malav.io'
 baseurl: '/'
 google_analytics: 'UA-72841310-1'

@@ -1240,8 +1240,7 @@ hr {
 	margin: 20px auto;
 	border-top: 1px solid rgba(255, 255, 255, 0.14); }
 
-.panel-cover__divider--secondary {
-	width: 15%; }
+.panel-cover__divider--secondary { }
 
 .panel-main {
 	display: table;
@@ -1277,8 +1276,7 @@ hr {
 	.panel-inverted a {
 		color: #FFF; }
 
-.cover-navigation {
-	margin-top: 10px; }
+.cover-navigation { }
 
 .cover-navigation--social {
 	margin-left: 30px; }
