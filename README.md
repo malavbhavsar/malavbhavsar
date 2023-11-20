@@ -1,6 +1,7 @@
-Senior Software Engineer at Square. I lead high-impact cross-organizational projects and engineering teams.
+Hello 👋 I am Malav, I work on Infrastructure and Product Engineering at Persona. I enjoy leading and executing on high level business goals. My current areas of interest are Fintech, Distributed Systems, and Machine Learning.
 
-Interested in Distributed Systems, Fintech, Blockchain and Machine Learning.
-
-Web presence: https://malav.io
-PDF Resume: https://malav.io/resume
+🌎 https://malav.io
+🔗 https://www.linkedin.com/in/malavbhavsar
+🐙 https://github.com/malavbhavsar
+🆇 https://twitter.com/malavbhavsar
+✉️ malav.bhavsar@gmail.com
