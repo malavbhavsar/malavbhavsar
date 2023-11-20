@@ -3,10 +3,10 @@
   <channel>
     <title>Malav Bhavsar</title>
     <description> Hello 👋 I am Malav, I work on Infrastructure and Product Engineering at Persona. I enjoy leading and executing on high level business goals. My current areas of interest are Fintech, Distributed Systems, and Machine Learning. </description>
-    <link>http://localhost:4000//</link>
-    <atom:link href="http://localhost:4000//feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 20 Nov 2023 21:42:50 +0530</pubDate>
-    <lastBuildDate>Mon, 20 Nov 2023 21:42:50 +0530</lastBuildDate>
+    <link>http://malav.io//</link>
+    <atom:link href="http://malav.io//feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Mon, 20 Nov 2023 22:05:37 +0530</pubDate>
+    <lastBuildDate>Mon, 20 Nov 2023 22:05:37 +0530</lastBuildDate>
     <generator>Jekyll v3.6.2</generator>
     
       <item>
@@ -29,8 +29,8 @@
 
 </description>
         <pubDate>Tue, 05 Jul 2016 07:00:00 +0530</pubDate>
-        <link>http://localhost:4000//2016/git-hublog/</link>
-        <guid isPermaLink="true">http://localhost:4000//2016/git-hublog/</guid>
+        <link>http://malav.io//2016/git-hublog/</link>
+        <guid isPermaLink="true">http://malav.io//2016/git-hublog/</guid>
         
         <category>git</category>
         
@@ -52,8 +52,8 @@
 &lt;p&gt;This was supposed to be a learning experience for me on how to make gems. So here it is: One can start with the &lt;a href=&quot;http://guides.rubygems.org/make-your-own-gem/&quot;&gt;make your own gem&lt;/a&gt; guide by the rubygems. It gives a fast tour of a typical gem’s anatomy. After getting the basics right, one can start using &lt;a href=&quot;https://github.com/technicalpickles/jeweler&quot;&gt;jeweler&lt;/a&gt;. It makes building gems super easy. Warning: if you don’t do things right way with jeweler, your commit log will look like a war zone. It happened with me.&lt;/p&gt;
 </description>
         <pubDate>Thu, 29 Nov 2012 10:01:00 +0530</pubDate>
-        <link>http://localhost:4000//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</link>
-        <guid isPermaLink="true">http://localhost:4000//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</guid>
+        <link>http://malav.io//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</link>
+        <guid isPermaLink="true">http://malav.io//2012/ruby-gem-for-sentiment-analysis-sentimentalizer/</guid>
         
         <category>ruby</category>
         
@@ -119,8 +119,8 @@
 &lt;p&gt;EDIT: In my recent experience, I have noticed that for people who don’t specify the exact gem versions are prone to run into errors where their test cases start to fail and there might be no apparent reason for it in the code. This can happen in a case where the new versions of the gem has arrived and travis runs your tests with new versions of gem. Solution to this problem is to use the exact gem versions. Also, if one can trigger travis to run tests when new version of any gem listed in Gemfile is released. Gemnasium should start doing this. They can just create a .gemnasium file which is updated everytime a new version of any gem listed in Gemfile is released. This will trigger travis to run the tests.&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Oct 2012 23:23:00 +0530</pubDate>
-        <link>http://localhost:4000//2012/rails-configuration-of-my-team-where-is-michael/</link>
-        <guid isPermaLink="true">http://localhost:4000//2012/rails-configuration-of-my-team-where-is-michael/</guid>
+        <link>http://malav.io//2012/rails-configuration-of-my-team-where-is-michael/</link>
+        <guid isPermaLink="true">http://malav.io//2012/rails-configuration-of-my-team-where-is-michael/</guid>
         
         <category>ruby</category>
         
@@ -147,8 +147,8 @@
 &lt;p&gt;I din’t have much problems while acting in this movie. Pavan jokingly says that it’s because my personality correlates with the role.&lt;/p&gt;
 </description>
         <pubDate>Tue, 27 Dec 2011 18:26:00 +0530</pubDate>
-        <link>http://localhost:4000//2011/anami/</link>
-        <guid isPermaLink="true">http://localhost:4000//2011/anami/</guid>
+        <link>http://malav.io//2011/anami/</link>
+        <guid isPermaLink="true">http://malav.io//2011/anami/</guid>
         
         <category>short-film</category>
         
