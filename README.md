@@ -6,6 +6,6 @@ Hello 👋 I am Malav, I work on Infrastructure and Product Engineering at Perso
 
 🐙 [github.com/malavbhavsar](https://github.com/malavbhavsar)
 
-🆇 [https://twitter.com/malavbhavsar](twitter.com/malavbhavsar)
+🆇 [twitter.com/malavbhavsar](https://twitter.com/malavbhavsar)
 
 ✉️ [malav.bhavsar@gmail.com](mailto:malavbhavsar@gmail.com)
